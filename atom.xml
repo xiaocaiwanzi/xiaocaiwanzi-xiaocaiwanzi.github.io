@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小蔡丸子的博客</title>
+  
+  <subtitle>小蔡丸子</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.xiaocaiwanzi.com/"/>
+  <updated>2024-01-30T05:08:42.283Z</updated>
+  <id>https://www.xiaocaiwanzi.com/</id>
+  
+  <author>
+    <name>xcwz</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>语雀文章自动同步到hexo博客</title>
+    <link href="https://www.xiaocaiwanzi.com/yu-que-wen-zhang-zi-dong-tong-bu-dao-hexo-bo-ke/"/>
+    <id>https://www.xiaocaiwanzi.com/yu-que-wen-zhang-zi-dong-tong-bu-dao-hexo-bo-ke/</id>
+    <published>2024-01-30T05:08:20.000Z</published>
+    <updated>2024-01-30T05:08:42.283Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;这是内容&quot;&gt;&lt;a href=&quot;#这是内容&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
